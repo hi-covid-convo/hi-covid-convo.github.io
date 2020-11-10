@@ -22,7 +22,7 @@
 
 ### Data model
 
-## Initialization
+### Initialization
 
 ### Quality Assurance
 
