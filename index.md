@@ -6,29 +6,20 @@
 * [Developer Guide](#developer-guide)
 * [Development History](#development-history)
 
-## Overview
+## Welcome to HI Covid Convo!
+The goal of this project is simple. We're aiming to provide an easy-to-use chat-bot for those concerned with COVID-19. Whether it's directly answering user's questions, or redirecting them to useful resources, we hope to give all users peace of mind.
 
 
-## User Guide
+## Final Outcome of the Application
 
 
-## Community Feedback
+## Mock-Up Pages
 
-## Developer Guide
 
-### Installation
-
-### Application Design
-
-### Data model
-
-### Initialization
-
-### Quality Assurance
 
 #### ESLint
 
-BowFolios includes a [.eslintrc](https://github.com/bowfolios/bowfolios/blob/master/app/.eslintrc) file to define the coding style adhered to in this application. You can invoke ESLint from the command line as follows:
+hi-covid-convo includes a [.eslintrc](https://github.com/bowfolios/bowfolios/blob/master/app/.eslintrc) file to define the coding style adhered to in this application. You can invoke ESLint from the command line as follows:
 
 ```
 meteor npm run lint
