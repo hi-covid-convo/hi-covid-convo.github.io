@@ -10,19 +10,19 @@ Below are some examples we liked in regards to the chat-bot and COVID prevention
 
 ### Landing Page Mock-Up
 
-<img src="./images/landing.png">
+<img src="./images/landing.PNG">
 
 ### FAQ Page Mock-Up
 
-<img src = "./images/FAQ.png">
+<img src = "./images/FAQ.PNG">
 
 ### Login Page Mock-Up
 
-<img src = "./images/login.png">
+<img src = "./images/login.PNG">
 
 ### Ask CECE Page Mock-Up
 
-<img src = "./images/askcece.png">
+<img src = "./images/askcece.PNG">
 
 
 
