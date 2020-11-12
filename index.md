@@ -26,7 +26,7 @@ Below are some low-fidelity mockups
 
 <img src = "./images/FAQ.PNG">
 
-### Login Page Mock-Up
+### Admin Login Page Mock-Up
 
 <img src = "./images/login.PNG">
 
