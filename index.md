@@ -8,8 +8,21 @@ Over the next month, we plan to improve upon the applications functionality. By 
 ## Mock-Up Pages
 Below are some examples we liked in regards to the chat-bot and COVID prevention pages.
 
-<img src="./images/mockup1.png">
-<img src = "./images/mockup2.png">
+### Landing Page Mock-Up
+
+<img src="./images/landing.png">
+
+### FAQ Page Mock-Up
+
+<img src = "./images/FAQ.png">
+
+### Login Page Mock-Up
+
+<img src = "./images/login.png">
+
+### Ask CECE Page Mock-Up
+
+<img src = "./images/askcece.png">
 
 
 
