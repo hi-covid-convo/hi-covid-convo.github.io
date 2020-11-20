@@ -65,28 +65,24 @@ The admin user is then brought to the statistics page after clicking on the navi
 <img src = "./images/milestone1/stats.png">
 You can view our Statistics page [here](http://167.99.174.175/#/statistics). Please note that in order to view this page you must be logged in as an admin user. You can use the defauls credentials from our previous exercises to log in and view this page.
 
-
-## Our Application
-
-If you would like to view a running deployment of our application, you can click [here](http://167.99.174.175/#/)
-
 ## Development
 
-if you would like to view our project history, as well as the completed issues from our first Milestone, view [HI Covid Convo M1](https://github.com/hi-covid-convo/hi-covid-convo/projects/1).
+If you would like to view our project history, as well as the completed issues from our first Milestone, view [HI Covid Convo M1](https://github.com/hi-covid-convo/hi-covid-convo/projects/1).
 
-if you would like to view the issues and project history for out Milestone 2, view [Hi Covid Convo M2](https://github.com/hi-covid-convo/hi-covid-convo/projects/2)
-We plan on cleaning up the look of our application by implementing more color and functionality, as well as making tweaks where necessary. 
+If you would like to view the issues and project history for the second Milestone, view [Hi Covid Convo M2](https://github.com/hi-covid-convo/hi-covid-convo/projects/2)
+We plan on cleaning up the look of our application by implementing more colors and functionality for the chatbot and statistics features. 
 
 ## Contact us
-If you would like to contact the creators of HI Covid Chatbot, then you can click on our names with the links above to view our githubs, or you can email us at the addressed below:
+If you would like to contact the creators of HI Covid Chatbot, you can email us at the below addresses:
 
 Glen Larita - glarita@hawaii.edu
 
-Sydney Dempsey - 
+Sydney Dempsey - dempseys@hawaii.edu
 
-Daniel Nilo -
+Daniel Nilo - dnilo@hawaii.edu
 
-Brian Abad - 
+Brian Abad - babad8@hawaii.edu
+
 
 
 
