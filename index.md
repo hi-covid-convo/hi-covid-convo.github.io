@@ -4,6 +4,8 @@
 * [Team Members](#team-members)
 * [Goal](#final-outcome-of-the-application)
 * [User Guide](#user-guide)
+* [Development](#development)
+* [Contact Us](#contact-us)
 
 ## [Hi-Covid-Convo Site](http://167.99.174.175/)
 
@@ -63,16 +65,16 @@ You can view our Admin Home page [here](http://167.99.174.175/#/). Please note t
 ## Statistics Page
 The admin user is then brought to the statistics page after clicking on the navigation bar link. This page will display statistics such as user feedback on how they liked the chatbot. We plan on having our application display this information by having the use fill out a form after they have finished using the chatbot, and using a table to display the amount of ratings each specific question has. This page is incomplete and is still in progress.
 <img src = "./images/milestone1/stats.png">
-You can view our Statistics page [here](http://167.99.174.175/#/statistics). Please note that in order to view this page you must be logged in as an admin user. You can use the defauls credentials from our previous exercises to log in and view this page.
+You can view our Statistics page [here](http://167.99.174.175/#/statistics). Please note that in order to view this page you must be logged in as an admin user.
 
-## Development
+# Development
 
 If you would like to view our project history, as well as the completed issues from our first Milestone, view [HI Covid Convo M1](https://github.com/hi-covid-convo/hi-covid-convo/projects/1).
 
 If you would like to view the issues and project history for the second Milestone, view [Hi Covid Convo M2](https://github.com/hi-covid-convo/hi-covid-convo/projects/2)
 We plan on cleaning up the look of our application by implementing more colors and functionality for the chatbot and statistics features. 
 
-## Contact us
+# Contact us
 If you would like to contact the creators of HI Covid Chatbot, you can email us at the below addresses:
 
 Glen Larita - glarita@hawaii.edu
@@ -82,9 +84,3 @@ Sydney Dempsey - dempseys@hawaii.edu
 Daniel Nilo - dnilo@hawaii.edu
 
 Brian Abad - babad8@hawaii.edu
-
-
-
-
-
-
