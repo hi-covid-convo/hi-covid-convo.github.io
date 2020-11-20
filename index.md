@@ -77,22 +77,35 @@ and install the necessary libraries by invoking meteor npm install:
 ```
 $ meteor npm install
 ```
-<img src="images/milestone1/npminstall.png">
+
 
 After the libraries are installed, you can run the application by typing in the command:
 
 ```
 $ meteor npm run start
 ```
-<img src="images/milestone1/npmrunstart.png">
+
 
 The first time you run the app, it will create some default users that have been added to the database. Here is an
-example of how the output may look like:
+example of how the output may look:
 <img src="images/milestone1/creatingdefaultsM1.png">
 
 Note regarding bcrypt warning: You may also get a similar message when running this application:
 
-<img src="images/milestone1/bcrypt.png">
+```
+=> Started proxy.                             
+=> Started MongoDB.                           
+W20201119-22:58:19.472(-10)? (STDERR) Note: you are using a pure-JavaScript implementation of bcrypt.
+W20201119-22:58:19.515(-10)? (STDERR) While this implementation will work correctly, it is known to be
+W20201119-22:58:19.516(-10)? (STDERR) approximately three times slower than the native implementation.
+W20201119-22:58:19.516(-10)? (STDERR) In order to use the native implementation instead, run
+W20201119-22:58:19.516(-10)? (STDERR) 
+W20201119-22:58:19.516(-10)? (STDERR)   meteor npm install --save bcrypt
+W20201119-22:58:19.516(-10)? (STDERR) 
+W20201119-22:58:19.517(-10)? (STDERR) in the root directory of your application.
+I20201119-22:58:20.471(-10)? Monti APM: completed instrumenting the app
+=> Started your app.
+```
 
 On some operating systems (particularly Windows), installing bcrypt is much more difficult than implied by the above
 message. Bcrypt is only used in Meteor for password checking, so the performance implications are negligible until your
@@ -107,7 +120,6 @@ Lastly, you can run ESLint over the code in the imports/directory with:
 ```
 $ meteor npm run lint
 ```
-<img src="images/milestone1/runlint.png">
 
 # Community Feedback
 We're interested in your experience using the application and would love to receive feedback. If you're interested in helping us improve the app, please take a few minutes to fill out [this form](https://forms.gle/Z9ALwHkicNkG6KU9A).
