@@ -66,7 +66,41 @@ The admin user is then brought to the statistics page after clicking on the navi
 You can view our Statistics page [here](http://167.99.174.175/#/statistics). Please note that in order to view this page you must be logged in as an admin user.
 
 # Developer Guide
+ 
+First, [install Meteor](https://www.meteor.com/install):
 
+Second, download a copy of [Digits](https://github.com/glarita/digits) from Github. Note that this repo is private, so
+you must request permission from the author to gain access to the repo.
+
+Third, open up your terminal/command prompt and cd into the app directory of the Digits copy you had just downloaded
+and install the necessary libraries by invoking meteor npm install:
+
+<img src="doc/npminstall.png">
+
+After the libraries are installed, you can run the application by typing in the command "meteor npm run start":
+
+<img src="doc/npmrunstart.png">
+
+The first time you run the app, it will create some default users that have been added to the database. Here is an
+example of the output:
+
+<img src="doc/Creatingdefaults.png">
+
+Note regarding bcrypt warning: You may also get the following message when running this application:
+
+<img src="doc/bcrypt.png">
+
+On some operating systems (particularly Windows), installing bcrypt is much more difficult than implied by the above
+message. Bcrypt is only used in Meteor for password checking, so the performance implications are negligible until your
+site has very high traffic. You can safely ignore this warning without any problems during initial stages of
+development.
+
+If all goes well, the template application will appear at http://localhost:3000. You can login in using the credentials
+in setting.development.json, or else you can register an new account.
+
+Lastly, you can run ESLint over the code in the imports/directory with:
+
+<img src="doc/runlint.png">
 # Community Feedback
 
 # Development
