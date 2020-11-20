@@ -3,6 +3,8 @@
 * [Overview](#overview)
 * [Goal](#final-outcome-of-the-application)
 * [User Guide](#user-guide)
+* [Developer Guide](#developer-guide)
+* [Community Feedback](#community-feedback)
 * [Development](#development)
 * [Contact Us](#contact-us)
 
@@ -63,7 +65,11 @@ The admin user is then brought to the statistics page after clicking on the navi
 <img src = "./images/milestone1/stats.png">
 You can view our Statistics page [here](http://167.99.174.175/#/statistics). Please note that in order to view this page you must be logged in as an admin user.
 
-# Development History
+# Developer Guide
+
+# Community Feedback
+
+# Development
 
 If you would like to view our project history, as well as the completed issues from our first Milestone, view [HI Covid Convo M1](https://github.com/hi-covid-convo/hi-covid-convo/projects/1).
 
