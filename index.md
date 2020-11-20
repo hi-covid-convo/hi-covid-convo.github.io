@@ -6,6 +6,7 @@
 * [User Guide](#user-guide)
 * [Development](#development)
 * [Contact Us](#contact-us)
+* [View our Organization](https://github.com/hi-covid-convo)
 
 ## [Hi-Covid-Convo Site](http://167.99.174.175/)
 
