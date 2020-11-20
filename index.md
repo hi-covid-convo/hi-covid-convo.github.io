@@ -82,7 +82,7 @@ After the libraries are installed, you can run the application by typing in the 
 
 The first time you run the app, it will create some default users that have been added to the database. Here is an
 example of how the output may look like:
-<img src="images/milestone1/Creatingdefaults.png">
+<img src="images/milestone1/creatingdefaultsM1.png">
 
 Note regarding bcrypt warning: You may also get a similar message when running this application:
 
