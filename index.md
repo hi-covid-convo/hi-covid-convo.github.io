@@ -1,27 +1,16 @@
 ## Table of contents
 
 * [Overview](#overview)
-* [Team Members](#team-members)
 * [Goal](#final-outcome-of-the-application)
 * [User Guide](#user-guide)
 * [Development](#development)
 * [Contact Us](#contact-us)
 
-
 ## [Hi-Covid-Convo Site](http://167.99.174.175/)
 
 ## Overview
 Welcome to HI-Covid-Convo! The goal of this project is simple. We're aiming to provide an easy-to-use chat-bot for those concerned with COVID-19. Whether it's directly answering user's questions, or redirecting them to useful resources, we hope to give all users peace of mind.
-View our [HI-Covid-Convo Organization](https://github.com/hi-covid-convo).
-
-## Team Members
-[Glen Larita](https://glarita.github.io/)
-
-[Daniel Nilo](https://duhkneelow.github.io/)
-
-[Brian Abad](https://ba-bbage.github.io/)
-
-[Sydney Dempsey](https://sydempsey.github.io/)
+[To hi-covid-convo repo](https://github.com/hi-covid-convo/hi-covid-convo)
 
 ## Goal of the Application
 Over the next month, we plan to improve upon the applications functionality. By the end, our goal is to have a working chat-bot that will be able to answer COVID-related FAQs. Along with being able to parse user input and determine the best response/resource to provide, we also would like to include other resources on the site that will provide general information on COVID and how to remain safe during this pandemic. Because we want the site to remain anonymous, we plan to collect feedback statistics from users who use the chatbot. These statistics would include the most commonly asked questions, as well as how happy users are with the quality of the responses. These statistics would be available to an admin user once logged into the application.
@@ -31,7 +20,7 @@ Over the next month, we plan to improve upon the applications functionality. By 
 ## Our Current Progress..
 
 ## Landing Page
-Users will first be taken to the landing page which will give an overview of the application. There is also a button to take them to Cece, the COVID chatbot. This page also goals over our goal for this application, and directs the user to go to the About page if they want to learn more
+Users will first be taken to the landing page which will give an overview of the application. There is also a button to take them to Cece, the COVID chatbot. This page also discusses the goal for this application, and directs the user to go to the About page if they want to learn more
 
 <img src = "./images/milestone1/landing.png">
 You can view our landing page [here](http://167.99.174.175/#/).
@@ -52,7 +41,7 @@ You can view our About page [here](http://167.99.174.175/#/about).
 
 
 ## General COVID Info Page
-The General knowledge page provides the user any general knowledge information about COVID-19. This includes topics like symptoms of the virus, how it is spread, and prevention and protection. This information was gathered from the Centers for Disease Control and Prevention (CDC) website. The General knowledge page is currently incomplete and still in progress as well.
+The General knowledge page provides the user any general knowledge information about COVID-19. This includes topics like symptoms of the virus, how it is spread, and prevention and protection. This information was gathered from the [Centers for Disease Control and Prevention (CDC)](https://www.cdc.gov/coronavirus/2019-ncov/index.html). The General knowledge page is currently still in progress as well.
 
 <img src = "./images/milestone1/gen.png">
 You can view our General Knowledge page [here](http://167.99.174.175/#/general).
@@ -70,7 +59,7 @@ Once logged in, the admin user will now have a new item in the navigation bar ca
 You can view our Admin Home page [here](http://167.99.174.175/#/). Please note that in order to view this page you must be logged in as an admin user. You can use the defauls credentials from our previous exercises to log in and view this page. 
 
 ## Statistics Page
-The admin user is then brought to the statistics page after clicking on the navigation bar link. This page will display statistics such as user feedback on how they liked the chatbot. We plan on having our application display this information by having the use fill out a form after they have finished using the chatbot, and using a table to display the amount of ratings each specific question has. This page is incomplete and is still in progress.
+The admin user is then brought to the statistics page after clicking on the navigation bar link. This page will display statistics such as user feedback on how they liked the chatbot. We plan on having our application display this information by having the use fill out a form after they have finished using the chatbot, and using a table to display the amount of ratings each specific question has.
 
 <img src = "./images/milestone1/stats.png">
 You can view our Statistics page [here](http://167.99.174.175/#/statistics). Please note that in order to view this page you must be logged in as an admin user.
@@ -85,11 +74,11 @@ We plan on cleaning up the look of our application by implementing more colors a
 # Contact us
 If you would like to contact the creators of HI Covid Chatbot, you can email us at the below addresses:
 
-Glen Larita - glarita@hawaii.edu
+[Glen Larita](https://glarita.github.io/) - glarita@hawaii.edu
 
-Daniel Nilo - dnilo@hawaii.edu
+[Daniel Nilo](https://duhkneelow.github.io/) - dnilo@hawaii.edu
 
-Brian Abad - babad8@hawaii.edu
+[Brian Abad](https://ba-bbage.github.io/) - babad8@hawaii.edu
 
-Sydney Dempsey - dempseys@hawaii.edu
+[Sydney Dempsey](https://sydempsey.github.io/) - dempseys@hawaii.edu
 
