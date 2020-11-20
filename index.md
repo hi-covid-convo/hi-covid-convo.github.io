@@ -1,7 +1,7 @@
 ## Table of contents
 
 * [Overview](#overview)
-* [Goal](#final-outcome-of-the-application)
+* [Goal](#goal-of-the-application)
 * [User Guide](#user-guide)
 * [Developer Guide](#developer-guide)
 * [Community Feedback](#community-feedback)
@@ -95,7 +95,9 @@ in setting.development.json, or else you can register an new account.
 
 Lastly, you can run ESLint over the code in the imports/directory with:
 
-<img src="doc/runlint.png">
+```
+meteor npm run lint
+```
 # Community Feedback
 
 # Development
