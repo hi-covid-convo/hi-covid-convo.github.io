@@ -25,6 +25,8 @@ Over the next month, we plan to improve upon the applications functionality. By 
 
 # User Guide
 
+## Our Current Progress..
+
 ## Landing Page
 Users will first be taken to the landing page which will give an overview of the application. There is also a button to take them to Cece, the COVID chatbot. This page also goals over our goal for this application, and directs the user to go to the About page if they want to learn more
 <img src = "./images/milestone1/landing.png">
