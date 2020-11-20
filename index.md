@@ -79,8 +79,9 @@ If you would like to contact the creators of HI Covid Chatbot, you can email us 
 
 Glen Larita - glarita@hawaii.edu
 
-Sydney Dempsey - dempseys@hawaii.edu
-
 Daniel Nilo - dnilo@hawaii.edu
 
 Brian Abad - babad8@hawaii.edu
+
+Sydney Dempsey - dempseys@hawaii.edu
+
