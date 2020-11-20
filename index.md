@@ -99,14 +99,17 @@ in setting.development.json, or else you can register an new account.
 Lastly, you can run ESLint over the code in the imports/directory with:
 
 <img src="images/milestone1/runlint.png">
+
 # Community Feedback
+We're interested in your experience using the application and would love to receive feedback. If you're interested in helping us improve the app, please take a few minutes to fill out [this form](https://forms.gle/Z9ALwHkicNkG6KU9A).
+
 
 # Development
 
 If you would like to view our project history, as well as the completed issues from our first Milestone, view [HI Covid Convo M1](https://github.com/hi-covid-convo/hi-covid-convo/projects/1).
 
 If you would like to view the issues and project history for the second Milestone, view [Hi Covid Convo M2](https://github.com/hi-covid-convo/hi-covid-convo/projects/2)
-We plan on cleaning up the look of our application by implementing more colors and functionality for the chatbot and statistics features, so stay tuned!
+We plan on cleaning up the look of our application by implementing more colors and functionality for the chatbot and statistics features. 
 
 # Contact us
 If you would like to contact the creators of HI Covid Chatbot, you can email us at the below addresses:
