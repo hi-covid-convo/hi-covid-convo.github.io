@@ -72,9 +72,9 @@ If you would like to view a running deployment of our application, you can click
 
 ## Development
 
-To see the project history, as well as the completed issues from our first Milestone, click [here](https://github.com/hi-covid-convo/hi-covid-convo/projects/1).
+if you would like to view our project history, as well as the completed issues from our first Milestone, view [HI Covid Convo M1](https://github.com/hi-covid-convo/hi-covid-convo/projects/1).
 
-To view the issues and project history for out Milestone 2, click [here](https://github.com/hi-covid-convo/hi-covid-convo/projects/2)
+if you would like to view the issues and project history for out Milestone 2, view [Hi Covid Convo M2](https://github.com/hi-covid-convo/hi-covid-convo/projects/2)
 We plan on cleaning up the look of our application by implementing more color and functionality, as well as making tweaks where necessary. 
 
 ## Contact us
