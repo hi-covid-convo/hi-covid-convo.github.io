@@ -88,7 +88,14 @@ $ meteor npm run start
 
 The first time you run the app, it will create some default users that have been added to the database. Here is an
 example of how the output may look:
-<img src="images/milestone1/creatingdefaultsM1.png">
+
+```
+I20201119-23:01:44.024(-10)? Creating the default user(s)
+I20201119-23:01:44.024(-10)?   Creating user admin@foo.com.
+I20201119-23:01:44.332(-10)?   Creating user john@foo.com.
+I20201119-23:01:44.754(-10)? Monti APM: completed instrumenting the app
+=> Started your app.
+```
 
 Note regarding bcrypt warning: You may also get a similar message when running this application:
 
