@@ -12,7 +12,7 @@
 
 ## Overview
 Welcome to HI-Covid-Convo! The goal of this project is simple. We're aiming to provide an easy-to-use chat-bot for those concerned with COVID-19. Whether it's directly answering user's questions, or redirecting them to useful resources, we hope to give all users peace of mind.
-View our [HI-Covid-Convo Organization](https://github.com/hi-covid-convo)
+View our [HI-Covid-Convo Organization](https://github.com/hi-covid-convo).
 
 ## Team Members
 [Glen Larita](https://glarita.github.io/)
