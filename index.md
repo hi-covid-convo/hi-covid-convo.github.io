@@ -73,9 +73,11 @@ Second, download a copy of [Hi-Covid-Convo](https://github.com/hi-covid-convo/hi
 
 Third, open up your terminal/command prompt and cd into the app directory of the Digits copy you had just downloaded
 and install the necessary libraries by invoking meteor npm install:
+
 <img src="images/milestone1/npminstall.png">
 
 After the libraries are installed, you can run the application by typing in the command "meteor npm run start":
+
 <img src="images/milestone1/npmrunstart.png">
 
 The first time you run the app, it will create some default users that have been added to the database. Here is an
@@ -83,6 +85,7 @@ example of the output:
 <img src="images/milestone1/Creatingdefaults.png">
 
 Note regarding bcrypt warning: You may also get the following message when running this application:
+
 <img src="images/milestone1/bcrypt.png">
 
 On some operating systems (particularly Windows), installing bcrypt is much more difficult than implied by the above
