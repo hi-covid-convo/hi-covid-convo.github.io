@@ -1,11 +1,11 @@
 ## Table of contents
 
 * [Overview](#overview)
-* [Goal](#final-outcome-of-the-application)
+* [Goal](#goal-of-the-application)
 * [User Guide](#user-guide)
 * [Developer Guide](#developer-guide)
 * [Community Feedback](#community-feedback)
-* [Development](#development)
+* [Development History](#development-history)
 * [Contact Us](#contact-us)
 
 ## [Hi-Covid-Convo Site](http://167.99.174.175/)
@@ -104,7 +104,7 @@ Lastly, you can run ESLint over the code in the imports/directory with:
 We're interested in your experience using the application and would love to receive feedback. If you're interested in helping us improve the app, please take a few minutes to fill out [this form](https://forms.gle/Z9ALwHkicNkG6KU9A).
 
 
-# Development
+# Development History
 
 If you would like to view our project history, as well as the completed issues from our first Milestone, view [HI Covid Convo M1](https://github.com/hi-covid-convo/hi-covid-convo/projects/1).
 
