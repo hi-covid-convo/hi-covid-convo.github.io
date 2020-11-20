@@ -74,10 +74,16 @@ Second, download a copy of [Hi-Covid-Convo](https://github.com/hi-covid-convo/hi
 Third, open up your terminal/command prompt and cd into the app directory of the Hi-Covid-Convo copy you had just downloaded
 and install the necessary libraries by invoking meteor npm install:
 
+```
+$ meteor npm install
+```
 <img src="images/milestone1/npminstall.png">
 
-After the libraries are installed, you can run the application by typing in the command "meteor npm run start":
+After the libraries are installed, you can run the application by typing in the command:
 
+```
+$ meteor npm run start
+```
 <img src="images/milestone1/npmrunstart.png">
 
 The first time you run the app, it will create some default users that have been added to the database. Here is an
@@ -98,6 +104,9 @@ in setting.development.json, or else you can register an new account.
 
 Lastly, you can run ESLint over the code in the imports/directory with:
 
+```
+$ meteor npm run lint
+```
 <img src="images/milestone1/runlint.png">
 
 # Community Feedback
