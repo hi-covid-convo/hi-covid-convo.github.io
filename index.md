@@ -46,7 +46,7 @@ You can view our About page [here](http://167.99.174.175/#/about).
 
 
 ## General COVID Info Page
-THe General knowledge page provides the user any general knowledge information about COVID-19. This includes topics like symptoms of the virus, how it is spread, and prevention and protection. This information was gathered from the Centers for Disease Control and Prevention (CDC) website. The General knowledge page is currently incomplete and still in progress as well.
+The General knowledge page provides the user any general knowledge information about COVID-19. This includes topics like symptoms of the virus, how it is spread, and prevention and protection. This information was gathered from the Centers for Disease Control and Prevention (CDC) website. The General knowledge page is currently incomplete and still in progress as well.
 <img src = "./images/milestone1/gen.png">
 You can view our General Knowledge page [here](http://167.99.174.175/#/general).
 
