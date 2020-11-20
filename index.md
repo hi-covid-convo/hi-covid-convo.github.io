@@ -69,26 +69,21 @@ You can view our Statistics page [here](http://167.99.174.175/#/statistics). Ple
  
 First, [install Meteor](https://www.meteor.com/install):
 
-Second, download a copy of [Digits](https://github.com/glarita/digits) from Github. Note that this repo is private, so
-you must request permission from the author to gain access to the repo.
+Second, download a copy of [Hi-Covid-Convo](https://github.com/hi-covid-convo/hi-covid-convo) from Github.
 
 Third, open up your terminal/command prompt and cd into the app directory of the Digits copy you had just downloaded
 and install the necessary libraries by invoking meteor npm install:
 
-<img src="doc/npminstall.png">
 
 After the libraries are installed, you can run the application by typing in the command "meteor npm run start":
 
-<img src="doc/npmrunstart.png">
 
 The first time you run the app, it will create some default users that have been added to the database. Here is an
 example of the output:
 
-<img src="doc/Creatingdefaults.png">
 
 Note regarding bcrypt warning: You may also get the following message when running this application:
 
-<img src="doc/bcrypt.png">
 
 On some operating systems (particularly Windows), installing bcrypt is much more difficult than implied by the above
 message. Bcrypt is only used in Meteor for password checking, so the performance implications are negligible until your
