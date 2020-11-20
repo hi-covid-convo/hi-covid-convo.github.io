@@ -66,5 +66,29 @@ The admin user is then brought to the statistics page after clicking on the navi
 You can view our Statistics page [here](http://167.99.174.175/#/statistics). Please note that in order to view this page you must be logged in as an admin user. You can use the defauls credentials from our previous exercises to log in and view this page.
 
 
+## Our Application
+
+If you would like to view a running deployment of our application, you can click [here](http://167.99.174.175/#/)
+
+## Development
+
+To see the project history, as well as the completed issues from our first Milestone, click [here](https://github.com/hi-covid-convo/hi-covid-convo/projects/1).
+
+To view the issues and project history for out Milestone 2, click [here](https://github.com/hi-covid-convo/hi-covid-convo/projects/2)
+We plan on cleaning up the look of our application by implementing more color and functionality, as well as making tweaks where necessary. 
+
+## Contact us
+If you would like to contact the creators of HI Covid Chatbot, then you can click on our names with the links above to view our githubs, or you can email us at the addressed below:
+
+Glen Larita - glarita@hawaii.edu
+
+Sydney Dempsey - 
+
+Daniel Nilo -
+
+Brian Abad - 
+
+
+
 
 
