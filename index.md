@@ -106,7 +106,7 @@ Lastly, you can run ESLint over the code in the imports/directory with:
 If you would like to view our project history, as well as the completed issues from our first Milestone, view [HI Covid Convo M1](https://github.com/hi-covid-convo/hi-covid-convo/projects/1).
 
 If you would like to view the issues and project history for the second Milestone, view [Hi Covid Convo M2](https://github.com/hi-covid-convo/hi-covid-convo/projects/2)
-We plan on cleaning up the look of our application by implementing more colors and functionality for the chatbot and statistics features. 
+We plan on cleaning up the look of our application by implementing more colors and functionality for the chatbot and statistics features, so stay tuned!
 
 # Contact us
 If you would like to contact the creators of HI Covid Chatbot, you can email us at the below addresses:
