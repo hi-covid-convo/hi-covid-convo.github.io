@@ -28,7 +28,7 @@ You can view our landing page [here](https://cece-convo.xyz/#/).
 
 
 ## Cece the Chatbot
-The chat icon button on the landing page will then take users to the Cece chatbot page. The page has a brief introduction to our chatbot Cece and some brief  instructions on how to use it. 
+The chat icon button on the landing page will then take users to the Cece chatbot page. The page has a brief introduction to our chatbot Cece and some brief  instructions on how to use it. There is also a survey link to take users to the feedback form.
 
 <img src = "./images/milestone2/cece1.png">
 
@@ -37,6 +37,11 @@ On the bottom of the page is where the user will be able to enter in a question 
 
 <img src = "./images/milestone2/cece2.png">
 You can view our Cece Chatbot page [here](https://cece-convo.xyz/#/Cece).
+
+## Feedback Form
+After clicking on the survey link from the Cece page, users will be taken to a form where they can submit their feedback on the application. All forms submitted will be shown in the analytics page.
+
+<img src = "./images/milestone2/form.png">
 
 
 ## About Page
