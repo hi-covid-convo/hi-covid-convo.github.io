@@ -217,7 +217,7 @@ If you would like to view our project history, as well as the completed issues f
 If you would like to view the issues and project history for the second Milestone, view [Hi Covid Convo M2](https://github.com/hi-covid-convo/hi-covid-convo/projects/2)
 During this milestone we implemented more functionality into our application, which includes a form created for user feedback and displaying the statistics of that form in a analytics page that users with accounts may see. We also made adjustments to the visual design of the application with the goal of embracing the aloha spirit of Hawaii. We successfully configured our chat-bot Cece to answer up to fifty different questions regarding COVID-19, which will provide information and links to websites that users may find informative and useful.
 
-Click here if you would like to view the current progress for the [Third Milestone](https://github.com/hi-covid-convo/hi-covid-convo/projects/3)
+Click here if you would like to view the current progress for the [Third Milestone](https://github.com/hi-covid-convo/hi-covid-convo/projects/3).
 
 
 # Contact us
