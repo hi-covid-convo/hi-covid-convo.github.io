@@ -14,21 +14,21 @@
 Welcome to HI-Covid-Convo! The goal of this project is simple. We're aiming to provide an easy-to-use chat-bot for those concerned with COVID-19. Whether it's directly answering user's questions, or redirecting them to useful resources, we hope to give all users peace of mind.
 [To hi-covid-convo organization](https://github.com/hi-covid-convo)
 
-## Goal of the Application
-Over the next month, we plan to improve upon the applications functionality. By the end, our goal is to have a working chat-bot that will be able to answer COVID-related FAQs. Along with being able to parse user input and determine the best response/resource to provide, we also would like to include other resources on the site that will provide general information on COVID and how to remain safe during this pandemic. Because we want the site to remain anonymous, we plan to collect feedback statistics from users who use the chatbot. These statistics would include the most commonly asked questions, as well as how happy users are with the quality of the responses. These statistics would be available to an admin user once logged into the application.
+### Goal of the Application
+Over the next month, we plan to improve upon the applications functionality. By the end, our goal is to have a working chat-bot that will be able to answer COVID-related FAQs. Along with being able to parse user input and determine the best response/resource to provide, we also would like to include other resources on the site that will provide general information on COVID and how to remain safe during this pandemic. Because we want the site to remain anonymous, we plan to collect feedback from users who use the chatbot. This feedback will be displayed as analytics and would include data such as the rating of the chatbot, how helpful it was, and how it can be improved, as well as how happy users are with the quality of the responses. These analytics would be available to an admin user once logged into the application.
 
 # User Guide
 ### Our Current Progress..
 
 ## Landing Page
-Users will first be taken to the landing page which will give an overview of the application. There is also a button to take them to Cece, the COVID chatbot. This page also discusses the goal for this application, and directs the user to go to the About page if they want to learn more
+Users will first be taken to the landing page which will give an overview of the application while making the user feel welcomed with a background image of the Hawaiian sky. There is also a button to take the user to Cece, the COVID-19 chatbot. This page also discusses the goal for this application, and directs the user to go to the About and general knowledge page if they wish to learn more.
 
 <img src = "./images/milestone1/landing.png">
 You can view our landing page [here](https://cece-convo.xyz/#/).
 
 
 ## Cece the Chatbot
-The button on the landing page will then take users to the Cece chatbot page. The page has a brief introduction to our chatbot Cece and some instructions on how to use it. On the right side of the screen is where the user will be able to enter in a question (as of now, the chatbot is still in progress and not fully complete).
+The chat icon button on the landing page will then take users to the Cece chatbot page. The page has a brief introduction to our chatbot Cece and some brief  instructions on how to use it. On the bottom of the page is where the user will be able to enter in a question regarding COVID-19, and the chatbot will provide them an answer. Our chatbot has been configured to answer more than 50 different questions!
 
 <img src = "./images/milestone1/cece.png">
 You can view our Cece Chatbot page [here](https://cece-convo.xyz/#/Cece).
@@ -42,25 +42,25 @@ You can view our About page [here](https://cece-convo.xyz/#/about).
 
 
 ## General COVID Info Page
-The General knowledge page provides the user any general knowledge information about COVID-19. This includes topics like symptoms of the virus, how it is spread, and prevention and protection. This information was gathered from the [Centers for Disease Control and Prevention (CDC)](https://www.cdc.gov/coronavirus/2019-ncov/index.html). The General knowledge page is currently still in progress as well.
+The General knowledge page provides the user some general knowledge information about COVID-19. This includes topics like symptoms of the virus, how it is spread, and prevention and protection. This information was gathered from the [Centers for Disease Control and Prevention (CDC)](https://www.cdc.gov/coronavirus/2019-ncov/index.html). The General knowledge page is currently still in progress, and we are looking forward to adding more information on this page for the user to view. 
 
 <img src = "./images/milestone1/gen.png">
 You can view our General Knowledge page [here](https://cece-convo.xyz/#/general).
 
 ## Admin Log-in
-Since the purpose of the chatbot is to provide users an easier and more efficient way to find the information that they are looking for, we decided to only include an admin login for our website. Users with the admin role will have access to the statistics of the application and the chatbot, as well as user feedback.
+Since the purpose of the chatbot is to provide users an easier and more efficient way to find the information that they are looking for, we decided to only include an "admin" login for our website. Users that create an account in our application will have access to the analytical data of the user feedback regarding our chat-bot and application.
 
 <img src = "./images/milestone1/admin_log.png">
 You can view our Admin login page [here](https://cece-convo.xyz/#/signin).
 
 ## Admin Home Page
-Once logged in, the admin user will now have a new item in the navigation bar called "statistics". This item will link the user to a statistics page, where all the stats of the site will be displayed.
+Once logged in, the admin user will now have a new menu item in the navigation bar called "analytics". This menu item will link the user to an analytics page, where all the user feedback data of the site will be displayed.
 
 <img src = "./images/milestone1/admin_home.png">
-You can view our Admin Home page [here](https://cece-convo.xyz/#/). Please note that in order to view this page you must be logged in as an admin user. You can use the defauls credentials from our previous exercises to log in and view this page. 
+You can view our Admin Home page [here](https://cece-convo.xyz/#/). Please note that in order to view this page you must have an account created on our application and you must be logged into that account. 
 
-## Statistics Page
-The admin user is then brought to the statistics page after clicking on the navigation bar link. This page will display statistics such as user feedback on how they liked the chatbot. We plan on having our application display this information by having the use fill out a form after they have finished using the chatbot, and using a table to display the amount of ratings each specific question has.
+## Analytics Page
+The admin user is then brought to the analytics page after clicking on the navigation bar link. This page will display analytical data regarding user feedback on how much they liked the chat-bot. We implement this data by having our application display this information after the user fills out a form when they have finished using the chat-bot, and using a table and a pie chart to display the ratings of the chatbot, as well as any individual feedback from users. 
 
 <img src = "./images/milestone1/stats.png">
 You can view our Statistics page [here](https://cece-convo.xyz/#/statistics). Please note that in order to view this page you must be logged in as an admin user.
