@@ -86,7 +86,7 @@ You can view our Cece Chatbot page [here](https://cece-convo.xyz/#/Cece).
 * Can I have friends over for dinner?
 * Will drinking alcohol prevent COVID? 
 
-####Bonus Questions
+#### Bonus Questions
 * Why was all of the toilet paper gone?
 * When will I be able to buy clorox wipes again?
 * Will 2021 be better than 2020?
