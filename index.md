@@ -89,7 +89,7 @@ $ npm install underscore
 and 
 
 ``` 
-npm install react-minimal-pie-chart
+$ npm install react-minimal-pie-chart
 ```
 
 After the libraries are installed, you can run the application by typing in the command:
