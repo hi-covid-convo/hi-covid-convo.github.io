@@ -28,7 +28,7 @@ You can view our landing page [here](https://cece-convo.xyz/#/).
 
 
 ## Cece the Chatbot
-The chat icon button on the landing page will then take users to the Cece chatbot page. The page has a brief introduction to our chatbot Cece and some brief  instructions on how to use it. 
+The chat icon button on the landing page will then take users to the Cece chatbot page. The page has a brief introduction to our chatbot Cece and some brief  instructions on how to use it. There is also a survey link to take users to the feedback form.
 
 <img src = "./images/milestone2/cece1.png">
 
@@ -37,6 +37,11 @@ On the bottom of the page is where the user will be able to enter in a question 
 
 <img src = "./images/milestone2/cece2.png">
 You can view our Cece Chatbot page [here](https://cece-convo.xyz/#/Cece).
+
+## Feedback Form
+After clicking on the survey link from the Cece page, users will be taken to a form where they can submit their feedback on the application. All forms submitted will be shown in the analytics page.
+
+<img src = "./images/milestone2/form.png">
 
 
 ## About Page
@@ -53,19 +58,19 @@ The General knowledge page provides the user some general knowledge information 
 You can view our General Knowledge page [here](https://cece-convo.xyz/#/general).
 
 ## User Log-in
-Since the purpose of the chatbot is to provide users an easier and more efficient way to find the information that they are looking for, we decided to only include an "admin" login for our website. Users that create an account in our application will have access to the analytical data of the user feedback regarding our chat-bot and application.
+Users that create an account in our application will have access to the analytical data of the user feedback regarding our chat-bot and application.
 
 <img src = "./images/milestone2/login.png">
-You can view our Admin login page [here](https://cece-convo.xyz/#/signin).
+You can view the User login page [here](https://cece-convo.xyz/#/signin).
 
 ## User Home Page
-Once logged in, the admin user will now have a new menu item in the navigation bar called "analytics". This menu item will link the user to an analytics page, where all the user feedback data of the site will be displayed.
+Once logged in, the user will now have a new menu item in the navigation bar called "analytics". This menu item will link the user to an analytics page, where all the user feedback data of the site will be displayed.
 
 <img src = "./images/milestone2/home.png">
-You can view our Admin Home page [here](https://cece-convo.xyz/#/). Please note that in order to view this page you must have an account created on our application and you must be logged into that account. 
+You can view the user Home page [here](https://cece-convo.xyz/#/). Please note that in order to view this page you must have an account created on our application and you must be logged into that account. 
 
 ## Analytics Page
-The admin user is then brought to the analytics page after clicking on the navigation bar link. This page will display analytical data regarding user feedback on how much they liked the chat-bot. We implement this data by having our application display this information after the user fills out a form when they have finished using the chat-bot, and using a table and a pie chart to display the ratings of the chatbot, as well as any individual feedback from users. 
+The user is then brought to the analytics page after clicking on the navigation bar link. This page will display analytical data regarding user feedback on how helpful the chat-bot was, and any additional improvements or thoughts they have on the application. We implement this data by having our application display this information after the user fills out a form when they have finished using the chat-bot. Ratings and feedback data are displayed using a table and three different pie charts.
 
 <img src = "./images/milestone2/analytics.png">
 You can view our Statistics page [here](https://cece-convo.xyz/#/analytics). Please note that in order to view this page you must be logged in as an admin user.
