@@ -39,58 +39,58 @@ On the bottom of the page is where the user will be able to enter in a question 
 You can view our Cece Chatbot page [here](https://cece-convo.xyz/#/Cece).
 
 ### Questions Currently Accepted by Cece
-*What is COVID?
-*Can I catch COVID again?
-*How long until I’m COVID free?
-*Am I at risk if I smoke?
-*Is it safe to go to work?
-*Is it safe to go to the grocery store?
-*Safest way to exercise?
-*Can animals get COVID?
-*Should I get my pet tested?
-*When will my taste / sense of smell come back?
-*What are common COVID symptoms?
-*What are dangerous COVID symptoms?
-*When should I go to the hospital?
-*When will COVID end?
-*What is the survival rate?
-*Can I get a vaccine?
-*When will vaccines become available?
-*How much will a vaccine cost?
-*Will there be enough vaccines for everyone?
-*If I've already had COVID, do I still need a vaccine?
-*How many shots of the vaccine will be needed?
-*How is COVID spread?
-*How effective is wearing a mask?
-*What kind of masks do you recommend?
-*Where can I purchase a mask?
-*What disinfectants kill COVID?
-*Who is most at risk?
-*I came into contact with someone who tested positive, what do I do?
-*Can I get COVID from ordering food?
-*How many cases are there in Hawaii?
-*How many cases are there in the United States?
-*How many cases are there on Oahu?
-*How many cases are there on Maui?
-*How many cases are there on BigIsland?
-*How many cases are there worldwide?
-*What should I expect when I get tested?
-*Where can I get tested on {Insert Island}?
-*How many different types of tests are there?
-*When should I expect test results?
-*When should I get tested?
-*When is the best time to travel?
-*How can I travel safely?
-*Should I get tested before traveling?
-*What is the recommended safe limit of the number of people you can gather with?
-*Can I have friends over for dinner?
-*Will drinking alcohol prevent COVID?
+* What is COVID?
+* Can I catch COVID again?
+* How long until I’m COVID free?
+* Am I at risk if I smoke?
+* Is it safe to go to work?
+* Is it safe to go to the grocery store?
+* Safest way to exercise?
+* Can animals get COVID?
+* Should I get my pet tested?
+* When will my taste / sense of smell come back?
+* What are common COVID symptoms?
+* What are dangerous COVID symptoms?
+* When should I go to the hospital?
+* When will COVID end?
+* What is the survival rate?
+* Can I get a vaccine?
+* When will vaccines become available?
+* How much will a vaccine cost?
+* Will there be enough vaccines for everyone?
+* If I've already had COVID, do I still need a vaccine?
+* How many shots of the vaccine will be needed?
+* How is COVID spread?
+* How effective is wearing a mask?
+* What kind of masks do you recommend?
+* Where can I purchase a mask?
+* What disinfectants kill COVID?
+* Who is most at risk?
+* I came into contact with someone who tested positive, what do I do?
+* Can I get COVID from ordering food?
+* How many cases are there in Hawaii?
+* How many cases are there in the United States?
+* How many cases are there on Oahu?
+* How many cases are there on Maui?
+* How many cases are there on BigIsland?
+* How many cases are there worldwide?
+* What should I expect when I get tested?
+* Where can I get tested on {Insert Island}?
+* How many different types of tests are there?
+* When should I expect test results?
+* When should I get tested?
+* When is the best time to travel?
+* How can I travel safely?
+* Should I get tested before traveling?
+* What is the recommended safe limit of the number of people you can gather with?
+* Can I have friends over for dinner?
+* Will drinking alcohol prevent COVID? 
 
-**Bonus Questions
-*Why was all of the toilet paper gone?
-*When will I be able to buy clorox wipes again?
-*Will 2021 be better than 2020?
-*What is the best class at UH Manoa?
+####Bonus Questions
+* Why was all of the toilet paper gone?
+* When will I be able to buy clorox wipes again?
+* Will 2021 be better than 2020?
+* What is the best class at UH Manoa?
 
 ## Feedback Form
 After clicking on the survey link from the Cece page, users will be taken to a form where they can submit their feedback on the application. All forms submitted will be shown in the analytics page.
