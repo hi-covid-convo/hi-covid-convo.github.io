@@ -230,7 +230,7 @@ If you would like to view our project history, as well as the completed issues f
 If you would like to view the issues and project history for the Second Milestone, view [Hi Covid Convo M2](https://github.com/hi-covid-convo/hi-covid-convo/projects/2)
 During this milestone we implemented a form created for user feedback and displayed the statistics of that form in an analytics page that users with accounts may see. We also made adjustments to the visual design of the application with the goal of embracing the aloha spirit of Hawaii. We successfully configured our chat-bot Cece to answer up to fifty different questions regarding COVID-19, which will provide information and links to websites that users may find informative and useful.
 
-If you would like to see the current progress for the Third Milestone, view [Hi Covid Convo M3](https://github.com/hi-covid-convo/hi-covid-convo/projects/3). The team's plan is to improve the aesthetics of the page as well as add more functionality to the application.
+To see the final issues and project issues for the Third Milestone, view [Hi Covid Convo M3](https://github.com/hi-covid-convo/hi-covid-convo/projects/3) In the final revisions to the project, we added in a page to show the resources used to generate the answers from the chat-bot. We also updated the about page, and made the web-app more navigational by including more links in the footer. To better the functionality of the chat-bot, we revised the intents and phrases on DialogFlow.
 
 
 # Contact us
