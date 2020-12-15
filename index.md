@@ -1,7 +1,7 @@
 ![ci-badge](https://github.com/hi-covid-convo/hi-covid-convo/workflows/hi-covid-convo/badge.svg)
 
 
-## Table of contents
+# Table of contents
 
 * [Overview](#overview)
 * [Deployment](#deployment)
@@ -12,18 +12,18 @@
 * [Development History](#development-history)
 * [Contact Us](#contact-us)
 
-## Overview
+# Overview
 Welcome to HI-Covid-Convo! The goal of this project is simple. We're aiming to provide an easy-to-use chat-bot for those concerned with COVID-19. Whether it's directly answering user's questions, or redirecting them to useful resources, we hope to give all users peace of mind.
 [To hi-covid-convo organization](https://github.com/hi-covid-convo)
 
-## Deployment
+# Deployment
 Here is a [link](https://cece-convo.xyz/) to our deployed site!
 
-### Goal of the Application
-Over the next month, we plan to improve upon the applications functionality. By the end, our goal is to have a working chat-bot that will be able to answer COVID-related FAQs. Along with being able to parse user input and determine the best response/resource to provide, we also would like to include other resources on the site that will provide general information on COVID and how to remain safe during this pandemic. Because we want the site to remain anonymous, we plan to collect feedback from users who use the chatbot. This feedback will be displayed as analytics and would include data such as the rating of the chatbot, how helpful it was, and how it can be improved, as well as how happy users are with the quality of the responses. These analytics would be available to an admin user once logged into the application.
+# Goal of the Application
+Our goal for this project was to have a working chat-bot that will be able to answer COVID-related FAQs while providing easy-to-use navigation and functionality for the user. Along with being able to parse user input and determine the best response/resource to provide to the user, we also wanted to include other resources on the site that will provide general information on COVID and how to remain safe during this pandemic. Because we want the site to remain anonymous, we collect feedback from users who use the chatbot anonymously. This feedback is displayed as analytics and includes data such as the rating of the chatbot, how helpful it was, and how it can be improved, as well as how happy users are with the quality of the responses. These analytics would be available to an admin user once logged into the application.
 
 # User Guide
-### Our Current Progress..
+## Our Current Progress..
 
 ## Landing Page
 Users will first be taken to the landing page which will give an overview of the application while making the user feel welcomed with a background image of the Hawaiian sky. There is also a button to take the user to Cece, the COVID-19 chatbot. This page also discusses the goal for this application, and directs the user to go to the About and general knowledge page if they wish to learn more.
@@ -147,7 +147,7 @@ Users can also delete feedback responses. Clicking the trash can icon will remov
 <img src = "./images/milestone3/analyticsTable.png">
 
 
-You can view our Statistics page [here](https://cece-convo.xyz/#/analytics). Please note that in order to view this page you must be logged in on the application.
+You can view our Analytics page [here](https://cece-convo.xyz/#/analytics). Please note that in order to view this page you must be logged in on the application.
 
 # Developer Guide
  
