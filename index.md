@@ -28,7 +28,7 @@ Over the next month, we plan to improve upon the applications functionality. By 
 ## Landing Page
 Users will first be taken to the landing page which will give an overview of the application while making the user feel welcomed with a background image of the Hawaiian sky. There is also a button to take the user to Cece, the COVID-19 chatbot. This page also discusses the goal for this application, and directs the user to go to the About and general knowledge page if they wish to learn more.
 
-<img src = "./images/milestone2/landing.png">
+<img src = "./images/milestone3/landing.png">
 You can view our landing page [here](https://cece-convo.xyz/#/).
 
 
@@ -106,6 +106,8 @@ After clicking on the survey link from the Cece page, users will be taken to a f
 ## About Page
 If the user wants to learn more about our application and its goal, they can visit the About page via the navigation bar. In this page we briefly go over what our goal is, and our purpose for creating this application.
 
+
+this needs to be fixed below !!!!
 <img src = "./images/milestone2/about.png">
 You can view our About page [here](https://cece-convo.xyz/#/about).
 
@@ -113,7 +115,7 @@ You can view our About page [here](https://cece-convo.xyz/#/about).
 ## General COVID Info Page
 The General knowledge page provides the user some general knowledge information about COVID-19. This includes topics like symptoms of the virus, how it is spread, and prevention and protection. This information was gathered from the [Centers for Disease Control and Prevention (CDC)](https://www.cdc.gov/coronavirus/2019-ncov/index.html). The General knowledge page is currently still in progress, and we are looking forward to adding more information on this page for the user to view. 
 
-<img src = "./images/milestone2/general.png">
+<img src = "./images/milestone3/general.png">
 You can view our General Knowledge page [here](https://cece-convo.xyz/#/general).
 
 ## User Log-in
@@ -125,13 +127,13 @@ You can view the User login page [here](https://cece-convo.xyz/#/signin).
 ## User Home Page
 Once logged in, the user will now have a new menu item in the navigation bar called "analytics". This menu item will link the user to an analytics page, where all the user feedback data of the site will be displayed.
 
-<img src = "./images/milestone2/home.png">
+<img src = "./images/milestone3/home.png">
 You can view the user Home page [here](https://cece-convo.xyz/#/). Please note that in order to view this page you must have an account created on our application and you must be logged into that account. 
 
 ## Analytics Page
 The user is then brought to the analytics page after clicking on the navigation bar link. This page will display analytical data regarding user feedback on how helpful the chat-bot was, and any additional improvements or thoughts they have on the application. We implement this data by having our application display this information after the user fills out a form when they have finished using the chat-bot. Ratings and feedback data are displayed using a table and three different pie charts.
 
-<img src = "./images/milestone2/analytics.png">
+<img src = "./images/milestone3/analytics2.png">
 You can view our Statistics page [here](https://cece-convo.xyz/#/analytics). Please note that in order to view this page you must be logged in as an admin user.
 
 # Developer Guide
