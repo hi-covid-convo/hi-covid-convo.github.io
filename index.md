@@ -108,7 +108,7 @@ If the user wants to learn more about our application and its goal, they can vis
 
 
 this needs to be fixed below !!!!
-<img src = "./images/milestone2/about.png">
+<img src = "./images/milestone3/about.png">
 You can view our About page [here](https://cece-convo.xyz/#/about).
 
 
