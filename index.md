@@ -106,8 +106,6 @@ After clicking on the survey link from the Cece page, users will be taken to a f
 ## About Page
 If the user wants to learn more about our application and its goal, they can visit the About page via the navigation bar. In this page we briefly go over what our goal is, and our purpose for creating this application.
 
-
-this needs to be fixed below !!!!
 <img src = "./images/milestone3/about.png">
 You can view our About page [here](https://cece-convo.xyz/#/about).
 
