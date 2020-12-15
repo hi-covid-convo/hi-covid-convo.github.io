@@ -118,6 +118,13 @@ The General knowledge page provides the user some general knowledge information 
 <img src = "./images/milestone3/general.png">
 You can view our General Knowledge page [here](https://cece-convo.xyz/#/general).
 
+## Resources Page
+If the user wants to learn where we got the information used for the chatbot, they can navigate to the Resources page via the footer.
+
+
+<img src = "./images/milestone3/resources.png">
+You can view our Resources page [here](https://cece-convo.xyz/#/resources).
+
 ## User Log-in
 Users that create an account in our application will have access to the analytical data of the user feedback regarding our chat-bot and application.
 
