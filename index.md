@@ -1,7 +1,7 @@
 ![ci-badge](https://github.com/hi-covid-convo/hi-covid-convo/workflows/hi-covid-convo/badge.svg)
 
 
-# Table of contents
+# Table of Contents
 
 * [Overview](#overview)
 * [Deployment](#deployment)
