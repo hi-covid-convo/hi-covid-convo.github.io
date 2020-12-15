@@ -100,7 +100,7 @@ You can view our Cece Chatbot page [here](https://cece-convo.xyz/#/Cece).
 ## Feedback Form
 After clicking on the survey link from the Cece page, users will be taken to a form where they can submit their feedback on the application. All forms submitted will be shown in the analytics page.
 
-<img src = "./images/milestone2/form.png">
+<img src = "./images/milestone3/feedback.png">
 
 
 ## About Page
@@ -141,7 +141,13 @@ You can view the user Home page [here](https://cece-convo.xyz/#/). Please note t
 The user is then brought to the analytics page after clicking on the navigation bar link. This page will display analytical data regarding user feedback on how helpful the chat-bot was, and any additional improvements or thoughts they have on the application. We implement this data by having our application display this information after the user fills out a form when they have finished using the chat-bot. Ratings and feedback data are displayed using a table and three different pie charts.
 
 <img src = "./images/milestone3/analytics2.png">
-You can view our Statistics page [here](https://cece-convo.xyz/#/analytics). Please note that in order to view this page you must be logged in as an admin user.
+
+Users can also delete feedback responses. Clicking the trash can icon will remove the entire response and update the pie charts below the table.
+
+<img src = "./images/milestone3/analyticsTable.png">
+
+
+You can view our Statistics page [here](https://cece-convo.xyz/#/analytics). Please note that in order to view this page you must be logged in on the application.
 
 # Developer Guide
  
