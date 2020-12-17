@@ -224,11 +224,11 @@ $ meteor npm run lint
 ```
 
 # Community Feedback
-Current users who reviewed the deployed site found that the chatbot would provide an answer for a different question. To fix the problem, we adjusted the training phrases so the chatbot would provide the correct answer. Other common suggestions we received were:
-* Make the links provided by the chatbot clickable
-* Include a popup button for the chatbot that can be accessed on any page
-* Add in ability to answer financial / unemployment questions
-* Using photos for the general knowledge page would be more interesting
+Current users who reviewed the deployed site found that the chatbot would provide an answer for a different question. To fix the problem, we adjusted the training phrases so the chatbot would provide the correct answer. Other improvements that will shape future work on the application include:
+* Making the links provided by the chatbot clickable
+* Including a popup button for the chatbot that can be accessed on any page
+* Adding in the ability to answer financial and unemployment questions
+* Adding photos to the general knowledge page in replacement of text to make it more interesting
 
 
 We're interested in your experience and would love to receive more feedback for future development of the application. If you're interested in helping, please take a few minutes to fill out [this form](https://forms.gle/Z9ALwHkicNkG6KU9A).
